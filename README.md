@@ -14,6 +14,7 @@ npm i @types/mongoose
 npm i doetenv @types/dotenv
 npm i bcrypt @types/bcrypt
 npm i cors @types/cors
+tsc -b //create a dist folder in javascript
 npm run dev
 
 
